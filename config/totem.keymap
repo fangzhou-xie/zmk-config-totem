@@ -42,7 +42,7 @@
                 timeout-ms = <50>;
                 key-positions = <10 11>;
                 bindings = <&kp TAB>;
-            }
+            };
             // combo_ctrl_w {
             //     timeout-ms = <50>;
             //     key-positions = <1>;
