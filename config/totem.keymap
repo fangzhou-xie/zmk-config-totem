@@ -107,7 +107,7 @@ label= "NAVI"                              ;
 
                 &kp KP_N1   &bt KP_N2   &kp KP_N3   &kp KP_N4   &kp KP_N5       &kp KP_N6   &kp KP_N7   &kp KP_N8   &kp KP_N9   &kp KP_N0
                 &kp A       &kp S       &kp D       &kp F       &kp LBKT        &kp RBKT    &kp LEFT    &kp UP      &kp RIGHT   &kp KP_MINUS
-    &kp LSHFT   &Kp Z       &kp X       &kp C       &kp V       &kp LPAR        &kp RPAR    &kp KP_N1   &kp DOWN    &kp KP_N3   &kp KP_MULTIPLY &kp RSHFT
+    &kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &kp LPAR        &kp RPAR    &kp KP_N1   &kp DOWN    &kp KP_N3   &kp KP_MULTIPLY &kp RSHFT
                                         &trans      &kp LCTRL   &kp SPACE       &kp RET     &trans   &kp DEL      
                         >;
                 };
